@@ -1,0 +1,8 @@
+#################
+## Vagrant stuff
+#################
+
+.vagrant
+package.box
+
+webroot/practice/app/tmp
